@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="223d1499-1f52-4196-a904-95091b31678c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvKSTjJSgrNP345s8cdDgr9yyM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chin\Documents\Project\Project_test\Initial " />
+      <recent name="C:\Users\chin\Documents\Project\Project_test\20200520Update\Reference" />
+      <recent name="C:\Users\chin\Documents\Project\Project_test\20200520Update" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HomePage ">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HomePage " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chin\Documents\Project\Project_test\20200520Update\Reference\HomePage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HomePage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SwithFrame_Sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Project_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chin\Documents\Project\Project_test\20200520Update\Reference\SwithFrame_Sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HomePage " />
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.SwithFrame_Sample" />
+        <item itemvalue="Python.HomePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="223d1499-1f52-4196-a904-95091b31678c" name="Default Changelist" comment="" />
+      <created>1589507126587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589507126587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="134" key="#HomePage" timestamp="1589983254060">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="480" y="134" key="#HomePage/0.0.1504.963@0.0.1504.963" timestamp="1589983254060" />
+    <state x="480" y="134" key="#HomePage_(1)" timestamp="1589984080909">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="480" y="134" key="#HomePage_(1)/0.0.1504.963@0.0.1504.963" timestamp="1589984080909" />
+    <state x="690" y="146" key="#Inspections" timestamp="1589983766492">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="690" y="146" key="#Inspections/0.0.1504.963@0.0.1504.963" timestamp="1589983766492" />
+    <state x="480" y="134" key="#Tkinter" timestamp="1589983234253">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="480" y="134" key="#Tkinter/0.0.1504.963@0.0.1504.963" timestamp="1589983234253" />
+    <state x="533" y="240" key="FileChooserDialogImpl" timestamp="1589984153861">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="240" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1589984153861" />
+    <state width="741" height="256" key="GridCell.Tab.0.bottom" timestamp="1589989526400">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="741" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1589989526400" />
+    <state width="741" height="256" key="GridCell.Tab.0.center" timestamp="1589989526400">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="741" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1589989526400" />
+    <state width="741" height="256" key="GridCell.Tab.0.left" timestamp="1589989526400">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="741" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1589989526400" />
+    <state width="741" height="256" key="GridCell.Tab.0.right" timestamp="1589989526400">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="741" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1589989526400" />
+    <state x="239" y="142" key="SettingsEditor" timestamp="1589983752585">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="239" y="142" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1589983752585" />
+    <state x="546" y="508" key="com.intellij.ide.util.TipDialog" timestamp="1589984142254">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="546" y="508" key="com.intellij.ide.util.TipDialog/0.0.1504.963@0.0.1504.963" timestamp="1589984142254" />
+    <state x="457" y="115" width="591" height="732" key="find.popup" timestamp="1589987483477">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="457" y="115" width="591" height="732" key="find.popup/0.0.1504.963@0.0.1504.963" timestamp="1589987483477" />
+    <state x="425" y="346" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589982294456">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="425" y="346" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1504.963@0.0.1504.963" timestamp="1589982294456" />
+    <state x="791" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1589987089384">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="791" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1589987089384" />
+  </component>
+</project>
